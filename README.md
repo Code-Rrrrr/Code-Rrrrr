@@ -22,7 +22,7 @@ Outside academics, I like exploring new skills, diving into Mathematics, and rea
 ### Expense Tracker App (Kotlin, MVVM, Room, MPAndroidCharts)
 A clean and modern Android application made to virtualize the logging of day to day transactions, and manage them more effectively.
 **Tech:** MVVM • Room • Coroutines • Material Design  
-**Repo:** *(Add your repo link once ready)*
+**Repo:** *[CredLog](https://github.com/Code-Rrrrr/CredLog.git)*
 
 ---
 
