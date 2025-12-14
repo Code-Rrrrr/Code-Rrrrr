@@ -13,7 +13,7 @@ I'm a native Android developer and B.Tech CSE undergrad focused on creating clea
 
 Currently exploring **Flutter**, **Dart**, and **Jetpack Compose** to expand my cross-platform and modern UI development toolkit. I enjoy simplifying complex problems and writing code that is maintainable and future-proof.
 
-Outside academics, I like exploring new skills, diving into Mathematics, and reading fiction. I'm eager to work in environments that stimulate continuous learning and engineering excellence.
+Outside academics, I like exploring new skills, diving into Mathematics, and reading fiction. I'm eager to work in environments that stimulate continuous learning.
 
 ---
 
