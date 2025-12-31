@@ -19,10 +19,16 @@ Outside academics, I like exploring new skills, diving into Mathematics, and rea
 
 ## Featured Projects
 
-### Expense Tracker App (Kotlin, MVVM, Room, MPAndroidCharts)
-A clean and modern Android application made to virtualize the logging of day to day transactions, and manage them more effectively.
-**Tech:** MVVM • Room • Coroutines • Material Design  
-**Repo:** *[CredLog](https://github.com/Code-Rrrrr/CredLog.git)*
+### ChefMate
+**Tech:** Kotlin • MVVM • Firebase • Google Auth/OAuth • Retrofit • RESTAPI<br>
+A recipe logger app that uses Spoonacular API to access the database and list recipes to user, while having a minimalist UI with Firestore in background to create and store recipes.<br>
+**Repo:** *[ChefMate](https://github.com/Code-Rrrrr/ChefMate)*
+
+### CredLog
+
+**Tech:** MVVM • Room • Coroutines • Material Design<br>
+A clean and modern Android application made to virtualize the logging of day to day transactions, and manage them more effectively.<br> 
+**Repo:** *[CredLog](https://github.com/Code-Rrrrr/CredLog)*
 
 ---
 
