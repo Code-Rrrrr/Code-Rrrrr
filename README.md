@@ -9,15 +9,20 @@ B.Tech CSE • Building clean, scalable, and user-centric mobile applications
 ---
 
 ## About Me
-I'm a native Android developer and B.Tech CSE undergrad focused on creating clean, scalable, and user-friendly mobile applications. I work primarily with **Kotlin** and modern Android architecture patterns such as **MVVM**, **Room**, **Retrofit**, and **Coroutines**.
+I'm a Mobile developer and B.Tech CSE undergrad focused on creating clean, scalable, and user-friendly mobile applications. I work primarily with **Kotlin** and modern Mobile architecture patterns such as **MVVM**, **Room**, **Retrofit**, and **Coroutines**.
 
-Currently exploring **Flutter**, **Dart**, and **Jetpack Compose** to expand my cross-platform and modern UI development toolkit. I enjoy simplifying complex problems and writing code that is maintainable and future-proof.
+Decent in **Flutter**, **Dart**, **Cross-Platforms Technologies** to expand my cross-platform and modern UI development toolkit. I enjoy simplifying complex problems and writing code that is maintainable and future-proof.
 
 Outside academics, I like exploring new skills, diving into Mathematics, and reading fiction. I'm eager to work in environments that stimulate continuous learning.
 
 ---
 
 ## Featured Projects
+
+### Breathe
+**Tech:** Flutter • Dart • Firebase • Google Auth/OAuth<br>
+A smoking cessation app that is built on offline-first architecture and solves the problems people face while quitting to smoke. The apps' philosophy of calm and helpful approach makes quitting rewarding than punishment.<br>
+**Repo:** *[Breathe](https://github.com/Code-Rrrrr/breathe)*
 
 ### ChefMate
 **Tech:** Kotlin • MVVM • Firebase • Google Auth/OAuth • Retrofit • RESTAPI<br>
@@ -29,14 +34,6 @@ A recipe logger app that uses Spoonacular API to access the database and list re
 **Tech:** MVVM • Room • Coroutines • Material Design<br>
 A clean and modern Android application made to virtualize the logging of day to day transactions, and manage them more effectively.<br> 
 **Repo:** *[CredLog](https://github.com/Code-Rrrrr/CredLog)*
-
----
-
-## Currently Learning
-- Jetpack Compose  
-- Flutter & Dart  
-- System Design for Android  
-- Advanced Kotlin patterns and best practices  
 
 ---
 
@@ -63,6 +60,3 @@ A clean and modern Android application made to virtualize the logging of day to 
 
 ---
 
-
-> *"First, solve the problem. Then, write the code."*  
-> — John Johnson
