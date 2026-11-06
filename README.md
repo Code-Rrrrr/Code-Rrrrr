@@ -1,129 +1,173 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:7F52FF,100:02569B&height=220&section=header&text=Hi%2C%20I'm%20Rayyan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%20Software%20Engineer%20in%20progress&descSize=18&descAlignY=60" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:35216B,100:3DDC84&height=230&section=header&text=RAYYAN&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Building%20Beyond%20the%20Surface&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Rayyan header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=620&lines=Building+clean%2C+scalable+mobile+apps;Kotlin+%7C+MVVM+%7C+Room+%7C+Coroutines;Flutter+%26+Dart+for+cross-platform+UIs;B.Tech+CSE+%E2%80%A2+Always+learning" alt="Typing SVG" />
-</a>
+### Android · Backend · Systems Programming
+
+*Turning ideas into software, one commit at a time.*
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Code-Rrrrr&label=Profile%20Views&color=7F52FF&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-rayyan-devsoftware)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smrayyan004@gmail.com)
+<a href="https://github.com/Code-Rrrrr">
+<img src="https://komarev.com/ghpvc/?username=Code-Rrrrr&style=for-the-badge&color=3DDC84&label=PROFILE+VIEWS" />
+</a>
+<a href="https://linkedin.com/in/mohammad-rayyan-devsoftware">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:smrayyan004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## `$ whoami`
 
-I'm a mobile developer and B.Tech CSE undergrad focused on building **clean, scalable, and user-friendly** apps. I work primarily with **Kotlin** and modern Android architecture: **MVVM**, **Room**, **Retrofit**, and **Coroutines**.
+I'm Rayyan, a B.Tech CSE student and software developer interested in understanding how software works — from the interfaces people interact with to the systems running underneath.
 
-I'm also comfortable with **Flutter** and **Dart**, which lets me carry good design and architecture across platforms. I enjoy simplifying complex problems and writing code that's maintainable and future-proof.
+I started with mobile development, working with Kotlin, Android and Flutter. Over time, my interests expanded into backend engineering with Java and Spring Boot, distributed systems, and low-level programming.
+
+I enjoy building things that are not just functional, but thoughtfully engineered.
 
 ```kotlin
-val rayyan = Developer(
-    role      = "Android Developer",
-    education = "B.Tech CSE",
-    languages = listOf("Kotlin", "Dart", "Java", "Python", "C"),
-    architecture = listOf("MVVM", "Offline-first", "Clean code"),
-    offDuty   = listOf("Mathematics", "Fiction", "Learning new skills"),
-    lookingFor = "Environments that stimulate continuous learning"
+data class Developer(
+    val name: String = "Rayyan",
+    val role: String = "Software Engineer in Progress",
+    val interests: List<String> = listOf(
+        "Android Development",
+        "Backend Engineering",
+        "Operating Systems",
+        "Distributed Systems"
+    ),
+    val philosophy: String =
+        "Understand the fundamentals. Build things that work."
 )
 ```
 
+## `$ ls ./projects`
+
+A few things I've been building.
+
+### 📱 Breathe
+
+**A calmer approach to quitting smoking.**
+
+An offline-first smoking cessation application designed around a supportive experience rather than guilt or punishment.
+
+`Flutter` `Dart` `Firebase` `Google Authentication`
+
+[View Repository →](https://github.com/Code-Rrrrr/breathe)
+
+### 🍳 ChefMate
+
+**Your personal recipe companion.**
+
+A Kotlin-based recipe application that integrates the Spoonacular API for discovering recipes, with Firestore for managing personal recipes.
+
+`Kotlin` `MVVM` `Retrofit` `Firestore`
+
+[View Repository →](https://github.com/Code-Rrrrr/ChefMate)
+
+### 💳 CredLog
+
+**Simple personal transaction management.**
+
+An Android application for recording and managing everyday transactions with local persistence and a clean Material Design interface.
+
+`Kotlin` `Room` `Coroutines` `Material Design`
+
+[View Repository →](https://github.com/Code-Rrrrr/CredLog)
+
+### ⚙️ rayyan.warehouse
+
+**A backend workflow automation engine.**
+
+A Spring Boot project where users define workflows, configure ordered steps, and execute them asynchronously through a separate worker.
+
+Exploring reliable execution, message queues, retries, scheduling, and failure recovery.
+
+`Java` `Spring Boot` `PostgreSQL` `RabbitMQ` `Docker`
+
+### 🖥️ Custom x86_64 Operating System
+
+**Building an operating system from the ground up.**
+
+An experimental 64-bit operating system with a custom BIOS bootloader and a kernel written in C and Assembly.
+
+Working towards process management, memory management, system calls, and cooperative scheduling.
+
+`C` `x86 Assembly` `NASM` `QEMU` `GNU Toolchain`
+
 ---
 
-## 🚀 Featured Projects
+## `$ cat tech-stack.txt`
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌿 Breathe</h3>
-      <p>A smoking cessation app built on an <b>offline-first</b> architecture. Its calm, supportive philosophy makes quitting feel rewarding rather than punishing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Code-Rrrrr/breathe"><b>View repo →</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🍳 ChefMate</h3>
-      <p>A recipe logger that pulls recipes from the <b>Spoonacular API</b>, with a minimalist UI and <b>Firestore</b> behind the scenes for creating and storing your own.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MVVM-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Code-Rrrrr/ChefMate"><b>View repo →</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💳 CredLog</h3>
-      <p>A clean, modern Android app for logging day-to-day transactions and managing them more effectively.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Code-Rrrrr/CredLog"><b>View repo →</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+### Languages
 
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,c,js&theme=dark" />
 
 </div>
 
-**Architecture & libraries:** `MVVM` · `Room` · `Retrofit` · `Coroutines` · `Material Design` · `REST APIs` · `Google OAuth`
-
----
-
-## 📊 GitHub Stats
+### Development
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-Rrrrr&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Rrrrr&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,spring,react,nodejs,firebase,postgres,redis&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Rrrrr&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</div>
+
+### Tools & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,idea,vscode,postman&theme=dark" />
+
+</div>
+
+### Concepts & Technologies
+
+`MVVM` · `Room` · `Retrofit` · `Coroutines` · `REST APIs` · `JWT` · `Spring Security` · `Hibernate` · `JPA` · `RabbitMQ` · `PostgreSQL` · `Distributed Systems` · `Operating Systems`
+
+---
+
+## `$ git status`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-Rrrrr&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Rrrrr&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Rrrrr&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `$ ping rayyan`
 
-I'm always open to conversations about mobile development, internships, and interesting problems.
+I'm interested in connecting with developers, discussing engineering problems, collaborating on projects, and exploring internship and career opportunities.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-rayyan-devsoftware)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrayyan004@gmail.com)
+<a href="https://linkedin.com/in/mohammad-rayyan-devsoftware">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:smrayyan004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*"The best way to understand a system is to build one."*
 
 <br/>
 
-*"Write code like the next person to maintain it is a future you."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:35216B,100:0D1117&height=110&section=footer" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:7F52FF,100:3DDC84&height=100&section=footer" width="100%" alt="footer"/>
+<img src="koi/koi.gif" width="256" alt="My koi"/>
 
 </div>
-
-<img src="koi/koi.gif" width="256" alt="My koi" />
