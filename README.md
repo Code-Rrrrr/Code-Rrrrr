@@ -125,3 +125,5 @@ I'm always open to conversations about mobile development, internships, and inte
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:7F52FF,100:3DDC84&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
