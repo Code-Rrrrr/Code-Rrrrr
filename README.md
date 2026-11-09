@@ -1,173 +1,61 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:35216B,100:3DDC84&height=230&section=header&text=RAYYAN&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Building%20Beyond%20the%20Surface&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Rayyan header"/>
-
-### Android · Backend · Systems Programming
-
-*Turning ideas into software, one commit at a time.*
-
-<br/>
-
-<a href="https://github.com/Code-Rrrrr">
-<img src="https://komarev.com/ghpvc/?username=Code-Rrrrr&style=for-the-badge&color=3DDC84&label=PROFILE+VIEWS" />
-</a>
-<a href="https://linkedin.com/in/mohammad-rayyan-devsoftware">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:smrayyan004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+# Rayyan  
+**Android Developer • Software Engineer (in progress)**  
+B.Tech CSE • Building clean, scalable, and user-centric mobile applications  
 
 </div>
 
 ---
 
-## `$ whoami`
+## About Me
+I'm a Mobile developer and B.Tech CSE undergrad focused on creating clean, scalable, and user-friendly mobile applications. I work primarily with **Kotlin** and modern Mobile architecture patterns such as **MVVM**, **Room**, **Retrofit**, and **Coroutines**.
 
-I'm Rayyan, a B.Tech CSE student and software developer interested in understanding how software works — from the interfaces people interact with to the systems running underneath.
+Decent in **Flutter**, **Dart**, **Cross-Platforms Technologies** to expand my cross-platform and modern UI development toolkit. I enjoy simplifying complex problems and writing code that is maintainable and future-proof.
 
-I started with mobile development, working with Kotlin, Android and Flutter. Over time, my interests expanded into backend engineering with Java and Spring Boot, distributed systems, and low-level programming.
-
-I enjoy building things that are not just functional, but thoughtfully engineered.
-
-```kotlin
-data class Developer(
-    val name: String = "Rayyan",
-    val role: String = "Software Engineer in Progress",
-    val interests: List<String> = listOf(
-        "Android Development",
-        "Backend Engineering",
-        "Operating Systems",
-        "Distributed Systems"
-    ),
-    val philosophy: String =
-        "Understand the fundamentals. Build things that work."
-)
-```
-
-## `$ ls ./projects`
-
-A few things I've been building.
-
-### 📱 Breathe
-
-**A calmer approach to quitting smoking.**
-
-An offline-first smoking cessation application designed around a supportive experience rather than guilt or punishment.
-
-`Flutter` `Dart` `Firebase` `Google Authentication`
-
-[View Repository →](https://github.com/Code-Rrrrr/breathe)
-
-### 🍳 ChefMate
-
-**Your personal recipe companion.**
-
-A Kotlin-based recipe application that integrates the Spoonacular API for discovering recipes, with Firestore for managing personal recipes.
-
-`Kotlin` `MVVM` `Retrofit` `Firestore`
-
-[View Repository →](https://github.com/Code-Rrrrr/ChefMate)
-
-### 💳 CredLog
-
-**Simple personal transaction management.**
-
-An Android application for recording and managing everyday transactions with local persistence and a clean Material Design interface.
-
-`Kotlin` `Room` `Coroutines` `Material Design`
-
-[View Repository →](https://github.com/Code-Rrrrr/CredLog)
-
-### ⚙️ rayyan.warehouse
-
-**A backend workflow automation engine.**
-
-A Spring Boot project where users define workflows, configure ordered steps, and execute them asynchronously through a separate worker.
-
-Exploring reliable execution, message queues, retries, scheduling, and failure recovery.
-
-`Java` `Spring Boot` `PostgreSQL` `RabbitMQ` `Docker`
-
-### 🖥️ Custom x86_64 Operating System
-
-**Building an operating system from the ground up.**
-
-An experimental 64-bit operating system with a custom BIOS bootloader and a kernel written in C and Assembly.
-
-Working towards process management, memory management, system calls, and cooperative scheduling.
-
-`C` `x86 Assembly` `NASM` `QEMU` `GNU Toolchain`
+Outside academics, I like exploring new skills, diving into Mathematics, and reading fiction. I'm eager to work in environments that stimulate continuous learning.
 
 ---
 
-## `$ cat tech-stack.txt`
+## Featured Projects
 
-### Languages
+### Breathe
+**Tech:** Flutter • Dart • Firebase • Google Auth/OAuth<br>
+A smoking cessation app that is built on offline-first architecture and solves the problems people face while quitting to smoke. The apps' philosophy of calm and helpful approach makes quitting rewarding than punishment.<br>
+**Repo:** *[Breathe](https://github.com/Code-Rrrrr/breathe)*
 
-<div align="center">
+### ChefMate
+**Tech:** Kotlin • MVVM • Firebase • Google Auth/OAuth • Retrofit • RESTAPI<br>
+A recipe logger app that uses Spoonacular API to access the database and list recipes to user, while having a minimalist UI with Firestore in background to create and store recipes.<br>
+**Repo:** *[ChefMate](https://github.com/Code-Rrrrr/ChefMate)*
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,c,js&theme=dark" />
+### CredLog
 
-</div>
-
-### Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,spring,react,nodejs,firebase,postgres,redis&theme=dark" />
-
-</div>
-
-### Tools & Infrastructure
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,idea,vscode,postman&theme=dark" />
-
-</div>
-
-### Concepts & Technologies
-
-`MVVM` · `Room` · `Retrofit` · `Coroutines` · `REST APIs` · `JWT` · `Spring Security` · `Hibernate` · `JPA` · `RabbitMQ` · `PostgreSQL` · `Distributed Systems` · `Operating Systems`
+**Tech:** MVVM • Room • Coroutines • Material Design<br>
+A clean and modern Android application made to virtualize the logging of day to day transactions, and manage them more effectively.<br> 
+**Repo:** *[CredLog](https://github.com/Code-Rrrrr/CredLog)*
 
 ---
 
-## `$ git status`
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-rayyan-devsoftware)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smrayyan004@gmail.com)
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-Rrrrr&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Rrrrr&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Rrrrr&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
-
-## `$ ping rayyan`
-
-I'm interested in connecting with developers, discussing engineering problems, collaborating on projects, and exploring internship and career opportunities.
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mohammad-rayyan-devsoftware">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:smrayyan004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-*"The best way to understand a system is to build one."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:35216B,100:0D1117&height=110&section=footer" width="100%" />
-
-<img src="koi/koi.gif" width="256" alt="My koi"/>
-
-</div>
